@@ -9,6 +9,6 @@ I'm a software engineer from India 🇮🇳 who is passionate about open-source,
 - 🔭 I’m currently working on open source project
 - 🌱 I’m currently learning kotlin plugin development
 - 💬 Ask me about anything
-- 📫 How to reach me: 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/prasad-t/">LinkedIn</a> 💼
 - 😄 Pronouns: He/Him
 
