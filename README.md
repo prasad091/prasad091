@@ -6,7 +6,7 @@
 
 I'm a software engineer from India 🇮🇳 who is passionate about open-source, developing and releasing quality softwares in production, and building community. I've worked extensively on developing various Mobile Applications. Specalised in designing quality strategy.
 
-- 🔭 I’m currently working on open source project
+- 🔭 I’m currently working on Freelancer and open source project
 - 🌱 I’m currently learning kotlin plugin development
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/prasad-t/">LinkedIn</a> 💼
